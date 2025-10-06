@@ -6,9 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Michael-Marsh/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/Michael-Marsh/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Michael-Marsh/osTicket-Ticket-Lifecycle-Examples)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure: Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Michael-Marsh/Microsoft-Azure-On-Premises-Active-Directory)
-  - [Network Security Groups and Inspecting Network Protocols](https://github.com/Michael-Marsh/Microsoft-Azure-Network-Security-Groups)
 
 <h2> 🤳 Connect with me:</h2>
 
